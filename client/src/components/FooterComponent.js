@@ -10,7 +10,7 @@ class Footer extends Component {
 
 render(){
     return(
-                    <p className="footer" align="center">Made By Hemang and Subham </p>
+                    <p className="footer" align="center">Made By Kathan , Piyush , Hemang and Subham </p>
           );
 }
 
